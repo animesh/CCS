@@ -1,3 +1,5 @@
 .env/
 __pycache__
 nohup.out
+*.pkl
+*.csv
